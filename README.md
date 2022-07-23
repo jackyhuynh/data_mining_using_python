@@ -2,6 +2,7 @@
 
 ## Introduction
 - the project is built with Jupiter Notebook. 
+![img](./images/algorithms.PNG)
 
 ## Technology
 List of technology
