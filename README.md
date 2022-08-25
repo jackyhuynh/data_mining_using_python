@@ -1,8 +1,10 @@
 # Data Mining Using Python
 
+
 ## Introduction
 - The projects is built with Jupiter Notebook, Python, or PyCharm IDE. It contains of 10 project that cover most aspect of data mining AI/ML application
 ![img](./images/algorithms.PNG)
+- [reference for data science](https://github.com/krzjoa/awesome-python-data-science#readme)
 
 ## Technology
 List of technology
